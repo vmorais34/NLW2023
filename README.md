@@ -6,6 +6,7 @@
 --- **NextJS**
 ---- Ta na documentação do react usar, indicação número 1
 ---- ligação com meu trabalho. Fast store sendo somente em nextjs e não em gatsbyJS.
+---- Importação do componente de imagem do NextJS otimizado. Dentro do componente usa o import da imagem.
 
 --- **EXPO (FRAMEWORK)**
 ---- NÃO PRECISA CONFIGURAR SDK DO MOBILE
@@ -71,3 +72,13 @@ só usar a documentação pra usar as classes
 
 **npm i nativewind**
 para o mobile
+
+**npm i lucide-react**
+Icones para o projeto WEB/React-TS
+
+
+### server
+
+http PUT <http://localhost:3333/memories/{id} content=oiiiiiiii coverUrl=https://github.com/diego3g.png>
+
+http DELETE <http://localhost:3333/memories/{id}>
