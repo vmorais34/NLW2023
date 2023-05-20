@@ -1,4 +1,4 @@
-## NLW - rocketseat (IMPULTIONAR CARREIRAS DE PROGRAMAÇÃO) Cada evento é um portfólio SÓ ATÉ DOMINGO
+## NLW - rocketseat (IMPULSIONAR CARREIRAS DE PROGRAMAÇÃO) Cada evento é um portfólio SÓ ATÉ DOMINGO
  ### POR ISSO EU ESTUDO NELA
 
 -- app e mobile
